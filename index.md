@@ -16,7 +16,7 @@ Data 94 @ UC Berkeley, Spring 2021
 
 **Instructor:** Suraj Rampure (<a>rampure@berkeley.edu</a>) ⬅️ email with any questions!
 
-[Apply to take the course!](#){: .btn .btn-outline }
+[Apply to take the course!](http://tinyurl.com/applydata94){: .btn .btn-outline }
 
 Jump to:
 - [Description](#description)
@@ -91,17 +91,16 @@ This course is offered for 3 units, letter graded (though you can opt to take it
 As this is a small course, we want to ensure that all students enrolled are part of the target audience. As a result, **you cannot enroll in this course automatically - you must first fill out an application.**
 
 We are specifically targeting students who:
-- Have never programmed before
 - Might be interested in data science
-
-The latter point is flexible – you may not yet know if you're interested in data science, and that is totally fine. The former, though, is a hard requirement - if you've programmed before, this is not the right course for you, and you should consider one of the alternatives outlined at the top of this page.
+- Have never programmed before
+- Do not have time conflicts with the class
 
 If you fit the above criteria and are interested in the course, please fill out the application below.
 
-[Apply to take the course!](#){: .btn .btn-outline }
+[Apply to take the course!](http://tinyurl.com/applydata94){: .btn .btn-outline }
 
 Notes about the application process:
-- We will filter applications regularly. Spots will be first-come-first-serve; if you apply and you meet the above criteria, you will be emailed a permission code.
+- We will filter applications regularly. Spots will be first-come-first-serve; if you apply and you meet the above criteria, you will be emailed a permission code shortly after filling out the form.
 - There is no "due date" to apply. The only scenario in which you will not be able to apply is if the waitlist grows very large, and it is clear not everyone will be able to enroll.
 - There are X seats available in this class. If more than X students are interested in taking the course (and meet the above criteria), we will maintain a waitlist.
 - We are not looking for anything other than whether or not you meet the above criteria. **Nobody is under-qualified to take this course!**
