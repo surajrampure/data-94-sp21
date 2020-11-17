@@ -1,17 +1,12 @@
 ---
-title: Week 1 – Data a4gaqagegeag
-weekNumber: 1
-days:
-  - date: 2021-01-25
-    events:
-      "**Homework 1**{: .label .label-hw } Python Fundamentals (due Feb. 1)":
-  - date: 2021-01-26
-    events:
-      "**Lecture 1**{: .label .label-lecture } Introduction, what is data science?":
-  - date: 2021-01-27
-    events:
-      "**Lab 1**{: .label .label-lab } Environment Setup, Your First Python Program":
-  - date: 2021-01-28
-    events:
-      "**Lecture 2**{: .label .label-lecture } Arithmetic, variables, and control":
+    title: Week 1
+    weekNumber: 1
+    days:
+      - date: 2021-01-20
+        events:
+          "**Lecture 1**{: .label .label-lecture } Introduction, Course Overview":
+      - date: 2021-01-22
+        events:
+          "**Lecture 2**{: .label .label-lecture } Programming in Jupyter notebooks, Basic Arithmetic":
+          "**Lab 1**{: .label .label-lab } Environment Setup":
 ---

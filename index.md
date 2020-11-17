@@ -56,6 +56,16 @@ Slides and code will be posted after each lecture, and they will cover everythin
 
 See the [syllabus](syllabus) tab of the website for a more detailed topic breakdown.
 
+Also, note that the course will emphasize the use of real-world data. Some possible datasets include
+- Data from media markets in Pennsylvania and data on Congress members’ ages
+- California housing prices data
+- COVID cases
+- Bay Area bike sharing usage data
+- Vehicle fuel efficiency data
+- Sports data
+
+Students will leave the course being able to independently apply the skills they've learned to datasets of their own choosing.
+
 <br>
 
 <a name = 'logistics'>
@@ -67,7 +77,7 @@ All content for the course will be posted on this website. We will use Piazza fo
 ### Lecture and Lab
 **Class will be held three times a week: on Mondays and Wednesdays from 11AM-12PM, and on Fridays from 11AM-1PM.**
 - Lecture is on Mondays, Wednesdays, and Fridays from 11AM-12PM. This is where new ideas are introduced.
-- Lab is on Friday from 12-1PM. This is where you will work short exercises and homework assignments with your peers, with assistance from course staff. (Often times, lab will start during the Friday lecture; we view this as one continuous 2-hour block.)
+- Lab is on Friday from 12-1PM. This is where you will work short exercises and homework assignments with your peers, with assistance from course staff.
 
 Attendance is expected, though lectures will be recorded and posted on the course website.
 

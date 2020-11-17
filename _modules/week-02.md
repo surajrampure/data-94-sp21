@@ -1,17 +1,15 @@
 ---
-title: Week 1 – Data Types, aefafefafea
-weekNumber: 2
-days:
-  - date: 2021-01-25
-    events:
-      "**Homework 1**{: .label .label-hw } Python Fundamentals (due Feb. 1)":
-  - date: 2021-01-26
-    events:
-      "**Lecture 1**{: .label .label-lecture } Introduction, what is data science?":
-  - date: 2021-01-27
-    events:
-      "**Lab 1**{: .label .label-lab } Environment Setup, Your First Python Program":
-  - date: 2021-01-28
-    events:
-      "**Lecture 2**{: .label .label-lecture } Arithmetic, variables, and control":
+    title: Week 2
+    weekNumber: 2
+    days:
+      - date: 2021-01-25
+        events:
+          "**Lecture 3**{: .label .label-lecture } Variables and Types":
+      - date: 2021-01-27
+        events:
+          "**Lecture 4**{: .label .label-lecture } Comparisons and Boolean Operators":
+          "**Homework 1**{: .label .label-hw } Python Fundamentals (due Feb. 2)":
+      - date: 2021-01-29
+        events:
+          "**Lecture 5**{: .label .label-lecture } Control and Iteration 1":
 ---

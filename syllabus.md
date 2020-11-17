@@ -6,6 +6,10 @@ description: >-
     Course syllabus.
 ---
 
-# Syllabus
+# Syllabus 📕
 
-TBD
+The following breakdown is very tentative.
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
