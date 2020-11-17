@@ -1,44 +1,26 @@
 ---
 layout: page
 title: Staff
-nav_exclude: True
+nav_order: 3
 description: A listing of all the course staff members.
 ---
 
-# Staff
+# Staff 🧑‍🏫
 
 ### Instructor
 
+Email the instructor with any questions about the class.
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
-  {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
   {% for staffer in instructors %}
   {{ staffer }}
   {% endfor %}
 </div>
 
-<!-- <a name = 'tas'></a>
-
-### Teaching Assistant
-
-<div class="role">
-  {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-  {% for staffer in teaching_assistants %}
-  {{ staffer }}
-  {% endfor %}
-</div>
-
-<a name = 'tutors'></a>
-
-### Tutor
-
-<div class="role">
-  {% assign readers = site.staffers | where: 'role', 'Tutor' %}
-  {% for staffer in readers %}
-  {{ staffer }}
-  {% endfor %}
-</div> -->
-
 ### Faculty Advisors
+
+The faculty advisors are helping design the class behind-the-scenes. (Don't email them about this class, but feel free to email them about anything else!)
 
 <div class="role">
   {% assign fa = site.staffers | where: 'role', 'Faculty Advisor' %}
@@ -46,3 +28,5 @@ description: A listing of all the course staff members.
   {{ staffer }}
   {% endfor %}
 </div>
+
+We will also have other course staff members. More details to come!

@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title: Home
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
@@ -10,11 +10,9 @@ description: A week-to-week description of the content covered in the course.
 Data 94 @ UC Berkeley, Spring 2021
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
+### Instructor: Suraj Rampure (<a>rampure@berkeley.edu</a>) ⬅️ email with any questions!
 
-
-
-
-**Instructor:** Suraj Rampure (<a>rampure@berkeley.edu</a>) ⬅️ email with any questions!
+*Note: Data 94 has not yet been approved for scheduling by campus administration, though we fully expect to have it scheduled by mid-December.*
 
 [Apply to take the course!](http://tinyurl.com/applydata94){: .btn .btn-outline }
 
@@ -23,7 +21,6 @@ Jump to:
 - [Syllabus](#syllabus)
 - [Logistics](#logistics)
 - [Enrollment](#enrollment)
-- [Staff](#staff)
 
 <a name = 'description'>
 ## Description 📝
@@ -46,7 +43,8 @@ If you have already taken any of these courses, Data 94 is not the right course 
 <br>
 
 <a name = 'syllabus'>
-## Syllabus 📕
+## [Syllabus](syllabus) 📕
+
 As this is a new course, many of the details are still being finalized. The rough topic breakdown is as follows:
 
 - Weeks 1-4: Python basics in the Jupyter notebook environment.
@@ -55,6 +53,8 @@ As this is a new course, many of the details are still being finalized. The roug
 - Weeks 13-15: Probability and simulation. Special topics, as time permits.
 
 Slides and code will be posted after each lecture, and they will cover everything you are required to know for the course. There is no one textbook that covers the content of this course the way we intend on covering it, though we may link supplementary readings.
+
+See the [syllabus](syllabus) tab of the website for a more detailed topic breakdown.
 
 <br>
 
@@ -95,41 +95,15 @@ We are specifically targeting students who:
 - Have never programmed before
 - Do not have time conflicts with the class
 
-If you fit the above criteria and are interested in the course, please fill out the application below.
+Notes about the application process:
+- We will filter applications regularly. Spots will be first-come-first-serve; if you apply and you meet the above criteria, you will be given a spot in the class.
+- **As mentioned at the top of the page, the course has not yet been officially scheduled, and thus you can't yet officially enroll.** Once the course is officially scheduled (which we expect to be in mid-December) you will emailed a permission code if you're admitted.
+- There is no "due date" to apply. The only scenario in which you will not be able to apply is if the waitlist grows very large, and it is clear not everyone will be able to enroll.
+- There are 30 seats available in this class. If more than 30 students are interested in taking the course (and meet the above criteria), we will maintain a waitlist.
+- We are not looking for anything other than whether or not you meet the above criteria. **Nobody is under-qualified to take this course!**
+
+If you fit the above criteria and are interested in the course, please fill out the application below. Please direct any questions to Suraj (rampure@berkeley.edu).
 
 [Apply to take the course!](http://tinyurl.com/applydata94){: .btn .btn-outline }
 
-Notes about the application process:
-- We will filter applications regularly. Spots will be first-come-first-serve; if you apply and you meet the above criteria, you will be emailed a permission code shortly after filling out the form.
-- There is no "due date" to apply. The only scenario in which you will not be able to apply is if the waitlist grows very large, and it is clear not everyone will be able to enroll.
-- There are X seats available in this class. If more than X students are interested in taking the course (and meet the above criteria), we will maintain a waitlist.
-- We are not looking for anything other than whether or not you meet the above criteria. **Nobody is under-qualified to take this course!**
-
 <br>
-
-<a name='staff'>
-## Staff 🧑‍🏫
-
-### Instructor
-
-Email the instructor with any questions about the class.
-
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-<div class="role">
-  {% for staffer in instructors %}
-  {{ staffer }}
-  {% endfor %}
-</div>
-
-### Faculty Advisors
-
-The faculty advisors are helping design the class behind-the-scenes. (Don't email them about this class, but feel free to email them about anything else!)
-
-<div class="role">
-  {% assign fa = site.staffers | where: 'role', 'Faculty Advisor' %}
-  {% for staffer in fa %}
-  {{ staffer }}
-  {% endfor %}
-</div>
-
-We will also have other course staff members. More details to come!

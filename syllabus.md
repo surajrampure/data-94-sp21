@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-nav_exclude: True
+nav_order: 2
 description: >-
     Course syllabus.
 ---
