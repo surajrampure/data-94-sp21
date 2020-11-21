@@ -16,6 +16,8 @@ Data 94 @ UC Berkeley, Spring 2021
 
 [Apply to take the course!](http://tinyurl.com/applydata94){: .btn .btn-outline }
 
+<iframe width="384" height="216" src="https://youtube.com/embed/E8qg3MvlKuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Jump to:
 - [Description](#description)
 - [Syllabus](#syllabus)
