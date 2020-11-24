@@ -98,12 +98,12 @@ There will also be a final exam.
 <a name = 'enrollment'>
 ## Enrollment 👋
 
-This course is offered for 3 units, letter graded (though you can opt to take it P/NP). It does not satisfy major requirements for any major.
+This course is offered for 3 units, letter graded (though you can opt to take it P/NP). **It does not satisfy major requirements for any major. It is also restricted to undergraduates only.**
 
 As this is a small course, we want to ensure that all students enrolled are part of the target audience. As a result, **you cannot enroll in this course automatically - you must first fill out an application.**
 
 We are specifically targeting students who:
-- Might be interested in data science
+- Are undergraduates who be interested in data science
 - Have never programmed before
 - Do not have time conflicts with the class
 
