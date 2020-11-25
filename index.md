@@ -98,7 +98,9 @@ There will also be a final exam.
 <a name = 'enrollment'>
 ## Enrollment 👋
 
-This course is offered for 3 units, letter graded (though you can opt to take it P/NP). **It does not satisfy major requirements for any major. It is also restricted to undergraduates only.**
+This course is offered for 3 units, letter graded (though you can opt to take it P/NP). **It does not satisfy major requirements for any major.**
+
+It is also restricted to undergraduates only. Furthermore, since one of its goals is to encourage students to take courses like Data 8 afterwards, **we are capping the number of seniors (defined as someone graduating anytime in 2021) in the class to 8**.
 
 As this is a small course, we want to ensure that all students enrolled are part of the target audience. As a result, **you cannot enroll in this course automatically - you must first fill out an application.**
 
