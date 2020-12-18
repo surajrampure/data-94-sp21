@@ -12,7 +12,7 @@ Data 94 @ UC Berkeley, Spring 2021
 
 ### Instructor: Suraj Rampure (<a>rampure@berkeley.edu</a>) ⬅️ email with any questions!
 
-Update (12/17): Data 94 is [officially scheduled](https://classes.berkeley.edu/content/2021-spring-data-94-001-lec-001)! Students who are accepted will receive permission codes to enroll. 🎉
+Update (12/17): Data 94 is [officially scheduled](https://classes.berkeley.edu/content/2021-spring-data-94-001-lec-001)! 🎉 Students who are accepted will receive permission codes to enroll. (Ignore what the listing says – the class will be taught fully remotely.) 
 
 [Apply to take the course!](http://tinyurl.com/applydata94){: .btn .btn-outline }
 
