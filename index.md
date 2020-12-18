@@ -12,7 +12,7 @@ Data 94 @ UC Berkeley, Spring 2021
 
 ### Instructor: Suraj Rampure (<a>rampure@berkeley.edu</a>) ⬅️ email with any questions!
 
-*Note: Data 94 has not yet been approved for scheduling by campus administration, though we fully expect to have it scheduled by mid-December.*
+Update (12/17): Data 94 is [officially scheduled](https://classes.berkeley.edu/content/2021-spring-data-94-001-lec-001)! Students who are accepted will receive permission codes to enroll. 🎉
 
 [Apply to take the course!](http://tinyurl.com/applydata94){: .btn .btn-outline }
 
@@ -74,7 +74,7 @@ Students will leave the course being able to independently apply the skills they
 ## Logistics 💻
 More details will be filled in as we approach the start of the spring semester.
 
-All content for the course will be posted on this website. We will use Piazza for all communication; we will not use bCourses for anything.
+All content for the course will be posted on this website. We will use Ed for all communication; we will not use bCourses for anything.
 
 ### Lecture and Lab
 **Class will be held three times a week: on Mondays and Wednesdays from 11AM-12PM, and on Fridays from 11AM-1PM.**
@@ -111,10 +111,10 @@ We are specifically targeting students who:
 
 Notes about the application process:
 - We will filter applications regularly. Spots will be first-come-first-serve; if you apply and you meet the above criteria, you will be given a spot in the class.
-- **As mentioned at the top of the page, the course has not yet been officially scheduled, and thus you can't yet officially enroll.** Once the course is officially scheduled (which we expect to be in mid-December) you will emailed a permission code if you're admitted.
 - There is no "due date" to apply. The only scenario in which you will not be able to apply is if the waitlist grows very large, and it is clear not everyone will be able to enroll.
 - There are 30 seats available in this class. If more than 30 students are interested in taking the course (and meet the above criteria), we will maintain a waitlist.
 - We are not looking for anything other than whether or not you meet the above criteria. **Nobody is under-qualified to take this course!**
+- **Update (12/17)**: Data 94 is officially scheduled, and students who have been accepted will be emailed permission codes. As of now, the course is full, but we will maintain a waitlist in the event that students drop.
 
 If you fit the above criteria and are interested in the course, please fill out the application below. Please direct any questions to Suraj (rampure@berkeley.edu).
 
