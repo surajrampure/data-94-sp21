@@ -10,16 +10,11 @@
       {{ page.name }}
       {% endif %}
     </h3>
+    {% if page.type %}
+    <p><b>{{ page.type }}</b></p>
+    {% endif %}
     {% if page.email %}
     <p>{{ page.email }}</p>
-    {% endif %}
-
-    {% if page.discussion %}
-    <p><b>Disc(s):</b> {{ page.discussion }}</p>
-    {% endif %}
-
-    {% if page.lab %}
-    <p><b>Lab(s):</b> {{ page.lab }}</p>
     {% endif %}
 
     {% if page.oh and page.role == "Instructor" %}

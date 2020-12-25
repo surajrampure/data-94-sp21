@@ -18,6 +18,17 @@ Email the instructor with any questions about the class.
   {% endfor %}
 </div>
 
+### Course Staff
+
+Our GSI, tutor, and lab assistants help in running all aspects of the class.
+
+{% assign staff = site.staffers | where: 'role', 'Staff' %}
+<div class="role">
+  {% for staffer in staff %}
+  {{ staffer }}
+  {% endfor %}
+</div>
+
 ### Faculty Advisors
 
 The faculty advisors are helping design the class behind-the-scenes. (Don't email them about this class, but feel free to email them about anything else!)
@@ -28,5 +39,3 @@ The faculty advisors are helping design the class behind-the-scenes. (Don't emai
   {{ staffer }}
   {% endfor %}
 </div>
-
-We will also have other course staff members. More details to come!

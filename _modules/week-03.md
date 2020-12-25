@@ -8,6 +8,9 @@
       - date: 2021-02-03
         events:
           "**Lecture 7**{: .label .label-lecture } Iteration 2":
+      - date: 2021-02-04
+        events:
+          "**Homework 2**{: .label .label-hw } More Python Fundamentals (due Feb. 10)":
       - date: 2021-02-05
         events:
           "**Lecture 8**{: .label .label-lecture } Functions 1":

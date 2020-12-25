@@ -8,7 +8,9 @@
       - date: 2021-01-27
         events:
           "**Lecture 4**{: .label .label-lecture } Comparisons and Boolean Operators":
-          "**Homework 1**{: .label .label-hw } Python Fundamentals (due Feb. 2)":
+      - date: 2021-01-28
+        events:
+          "**Homework 1**{: .label .label-hw } Python Fundamentals (due Feb. 3)":
       - date: 2021-01-29
         events:
           "**Lecture 5**{: .label .label-lecture } Control and Iteration 1":
