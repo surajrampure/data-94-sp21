@@ -7,6 +7,6 @@
           "**Lecture 1**{: .label .label-lecture } Introduction, Course Overview":
       - date: 2021-01-22
         events:
-          "**Lecture 2**{: .label .label-lecture } Programming in Jupyter notebooks, Basic Arithmetic":
+          "**Lecture 2**{: .label .label-lecture } Jupyter Notebooks and Arithmetic":
           "**Lab 1**{: .label .label-lab } Environment Setup":
 ---
