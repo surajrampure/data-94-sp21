@@ -4,9 +4,9 @@
     days:
       - date: 2021-01-20
         events:
-          "**Lecture 1**{: .label .label-lecture } Introduction, Course Overview":
+          "**1**{: .label .label-gray } Introduction, Course Overview":
       - date: 2021-01-22
         events:
-          "**Lecture 2**{: .label .label-lecture } Jupyter Notebooks and Arithmetic":
+          "**2**{: .label .label-gray } Jupyter Notebooks and Arithmetic":
           "**Lab 1**{: .label .label-lab } Environment Setup":
 ---

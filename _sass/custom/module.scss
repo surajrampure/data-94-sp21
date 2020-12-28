@@ -78,26 +78,32 @@
       padding-top: 0;
     }
 
-    .label-lecture { background-color: #779ECC }
+    .label-gray { background-color: #ECEBED; width: 30px; text-align: center }
 
-    .label-lab { background-color: #F2C76E }
+    .label-lecture { background-color: #779ECC; }
+
+    .label-lab { background-color: #F2C76E; text-align: center }
 
     .label-vit { background-color: #c1443c }
 
     .label-disc { background-color: #7A77B9 }
 
-    .label-hw { background-color: #E94C4B }
+    .label-hw { background-color: #E94C4B; text-align: center }
 
     .label-proj { background-color: #FF8144 }
 
-    .label-exam { background-color: #000000 }
+    .label-exam { background-color: #000000; }
 
     .label-live { background-color: #63c082 }
 
     .label-survey { background-color: #aaaaaa }
 
-    .label-ghost { background-color: #ffffff }
+    .label-ghost { background-color: #ffffff; width: 30px; text-align: center }
 
   }
 
+}
+
+.text-grey-dk-100, .label-gray {
+    color: #5c5962 !important;
 }

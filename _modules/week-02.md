@@ -4,14 +4,15 @@
     days:
       - date: 2021-01-25
         events:
-          "**Lecture 3**{: .label .label-lecture } Variables and Types":
+          "**3**{: .label .label-gray } Evaluation, Variables, and Types":
+            "**4**{: .label .label-ghost } [slides](#) • [QC](#) • [video](#) • [code](#) • [code HTML](#) • readings: [CIT 3.2](#), [SPR 5](#)"
       - date: 2021-01-27
         events:
-          "**Lecture 4**{: .label .label-lecture } Comparisons and Boolean Operators":
+          "**4**{: .label .label-gray } Comparisons and Boolean Operators":
       - date: 2021-01-28
         events:
-          "**Homework 1**{: .label .label-hw } Python Fundamentals (due Feb. 3)":
+          "**HW 1**{: .label .label-hw } Python Fundamentals **(due Feb. 3)**":
       - date: 2021-01-29
         events:
-          "**Lecture 5**{: .label .label-lecture } Control and Iteration 1":
+          "**5**{: .label .label-gray } Control and Iteration 1":
 ---

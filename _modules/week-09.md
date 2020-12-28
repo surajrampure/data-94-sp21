@@ -4,11 +4,11 @@
     days:
       - date: 2021-03-15
         events:
-          "**Quiz**{: .label .label-exam } Quiz 2 (in lecture)":
+          "**QUIZ 2**{: .label .label-exam } Quiz 2 (in lecture)":
       - date: 2021-03-17
         events:
-          "**Lecture 22**{: .label .label-lecture } APIs and File I/O":
+          "**22**{: .label .label-gray } APIs and File I/O":
       - date: 2021-03-19
         events:
-          "**Lecture 23**{: .label .label-lecture } Variable Types and Distributions":
+          "**23**{: .label .label-gray } Variable Types and Distributions":
 ---
