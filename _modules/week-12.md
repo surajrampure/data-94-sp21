@@ -1,5 +1,5 @@
 ---
-    title: Week 12
+    title: 12. Visualization and Graphics
     weekNumber: 12
     days:
       - date: 2021-04-05

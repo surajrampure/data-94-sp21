@@ -1,5 +1,5 @@
 ---
-    title: Week 13
+    title: 13. Quiz 3, Statistics
     weekNumber: 13
     days:
       - date: 2021-04-12

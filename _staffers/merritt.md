@@ -1,6 +1,7 @@
 ---
 name: Isaac Merritt
 role: Staff
+pronouns: he/him
 type: GSI
 email: isaacmerritt@berkeley.edu
 photo: ../resources/assets/staff_pics/merritt.png

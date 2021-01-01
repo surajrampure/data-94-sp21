@@ -1,5 +1,5 @@
 ---
-    title: Week 9
+    title: 9. Quiz 2, Special Topics
     weekNumber: 9
     days:
       - date: 2021-03-15

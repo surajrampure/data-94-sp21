@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 
 # Staff 🧑‍🏫
 
-### Instructor
+## Instructor
 
 Email the instructor with any questions about the class.
 
@@ -18,7 +18,7 @@ Email the instructor with any questions about the class.
   {% endfor %}
 </div>
 
-### Course Staff
+## Staff
 
 Our GSI, tutor, and lab assistants help in running all aspects of the class.
 
@@ -29,7 +29,7 @@ Our GSI, tutor, and lab assistants help in running all aspects of the class.
   {% endfor %}
 </div>
 
-### Faculty Advisors
+## Faculty Advisors
 
 The faculty advisors are helping design the class behind-the-scenes. (Don't email them about this class, but feel free to email them about anything else!)
 

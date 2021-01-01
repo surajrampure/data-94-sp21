@@ -1,5 +1,5 @@
 ---
-    title: Week 10
+    title: 10. Spring Break 🏄
     weekNumber: 10
     days:
       - date: 2021-03-22

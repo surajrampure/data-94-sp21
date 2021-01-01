@@ -1,5 +1,5 @@
 ---
-    title: Week 6
+    title: 6. Programming in Data Science
     weekNumber: 6
     days:
       - date: 2021-02-22

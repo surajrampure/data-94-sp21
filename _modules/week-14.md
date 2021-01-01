@@ -1,5 +1,5 @@
 ---
-    title: Week 14
+    title: 14. Statistics and Special Topics
     weekNumber: 14
     days:
       - date: 2021-04-19

@@ -1,5 +1,5 @@
 ---
-    title: Week 8
+    title: 8. Advanced Tables
     weekNumber: 8
     days:
       - date: 2021-03-08

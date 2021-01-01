@@ -1,5 +1,5 @@
 ---
-    title: Week 4
+    title: 4. Problem Solving, Quiz 1
     weekNumber: 4
     days:
       - date: 2021-02-08

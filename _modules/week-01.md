@@ -1,5 +1,5 @@
 ---
-    title: Week 1
+    title: 1. Welcome to Data 94!
     weekNumber: 1
     days:
       - date: 2021-01-20
@@ -8,5 +8,5 @@
       - date: 2021-01-22
         events:
           "**2**{: .label .label-gray } Jupyter Notebooks and Arithmetic":
-          "**Lab 1**{: .label .label-lab } Environment Setup":
+          "**Lab 0**{: .label .label-lab } Environment Setup":
 ---

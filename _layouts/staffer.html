@@ -9,6 +9,9 @@
       {% else %}
       {{ page.name }}
       {% endif %}
+    {% if page.pronouns %}
+    <p class="staffer-pronouns"><b>{{ page.pronouns }}</b></p>
+    {% endif %}
     </h3>
     {% if page.type %}
     <p><b>{{ page.type }}</b></p>

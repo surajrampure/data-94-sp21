@@ -26,17 +26,13 @@ color_scheme: light
 search_enabled: true
 permalink: pretty
 nav_links:
-  # &nbsp:
-  #   Description:
-  #     - '/#description'
-  #   Syllabus:
-  #     - '/#syllabus'
-  #   Logistics:
-  #     - ''
-  #   Enrollment:
-  #     - ''
-  #   Staff:
-  #     - '/#staff'
+  Links:
+    Ed:
+      - 'https://edstem.org/us/courses/3251/discussion/'
+    DataHub:
+      - 'https://datahub.berkeley.edu'
+    Gradescope:
+      - 'https://www.gradescope.com/courses/166696'
 aux_links:
   # 'Kevin Lin':
   #   - 'https://kevinl.info'

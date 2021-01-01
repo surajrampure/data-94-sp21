@@ -1,123 +1,37 @@
 ---
-layout: default
+layout: page
 title: Home
 nav_order: 1
-description: A week-to-week description of the content covered in the course.
+description: >-
+    A week-to-week description of the content covered in the course.
 ---
 
 # Introduction to Computational Thinking with Data 📊
 {: .mb-2 }
-Data 94 @ UC Berkeley, Spring 2021
-{: .mb-0 .fs-6 .text-grey-dk-000 }
+UC Berkeley, Spring 2021
+{: .mb-2 .fs-6 .text-grey-dk-000 }
 
-### Instructor: Suraj Rampure (<a>rampure@berkeley.edu</a>) ⬅️ email with any questions!
+{: .mb-2 }
+**Instructor:** Suraj Rampure (<a>rampure@berkeley.edu</a>)
+{: .mb-0 .fs-5 .text-grey-dk-000 }
 
-Update (12/17): Data 94 is [officially scheduled](https://classes.berkeley.edu/content/2021-spring-data-94-001-lec-001)! 🎉 Students who are accepted will receive permission codes to enroll. (Ignore what the listing says – the class will be taught fully remotely.) 
+{: .mb-3 }
+**Class:** MW 11AM-12PM, F 11AM-1PM
+{: .mb-0 .fs-5 .text-grey-dk-000 }
 
-[Apply to take the course!](http://tinyurl.com/applydata94){: .btn .btn-outline }
+<!-- {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+<div class="role">
+  {% for staffer in instructors %}
+  {{ staffer }}
+  {% endfor %}
+</div> -->
 
-<iframe width="384" height="216" src="https://youtube.com/embed/E8qg3MvlKuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Jump to:
-- [Description](#description)
-- [Syllabus](#syllabus)
-- [Logistics](#logistics)
-- [Enrollment](#enrollment)
-
-<a name = 'description'>
-## Description 📝
-
-<div class="announcement">
-  <div class="announcement-body">
-  <b>Data 94 is a new class designed to introduce students to programming in Python from the data perspective.</b> In particular, it is meant to be a small, more personal alternative to larger introductory programming courses.
-  </div>
-</div>
-
-From the course catalog: This course is an introduction to computational thinking and quantitative reasoning, designed to prepare students for further coursework in data science, computer science, and statistics (in particular, Foundations of Data Science, Data C8). This course emphasizes the use of computation to gain insight about quantitative problems with real data from the social sciences.
-
-This class serves a different purposes than several other classes that may sound similar. Specifically:
-- **Data 8**: Data 94 does not cover nearly as much statistics and inference as Data 8. Instead, it dives deeper into Python and its applications in data science. After taking this class, you will be well-equipped to take Data 8 and focus on the inference.
-- **CS 10**: While CS 10 is also an introductory computing class, it focuses less on Python and data science, and more on abstract ideas in computing. It is a fantastic alternative to Data 94.
-- **CS 61A and CS 88**: While these courses also teach Python, they serve a slightly different purpose - namely, they are designed to introduce students to computer science, not to computing in data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. They are also substantially more fast-paced than this course.
-
-If you have already taken any of these courses, Data 94 is not the right course for you. But if you haven't -- welcome! We'd be glad to have you 😊
+[Syllabus](syllabus){: .btn .btn-blue } [Zoom links](https://edstem.org/us/courses/3251/discussion/201908){: .btn .btn-purple } [Interested in enrolling? Read this!](enrollment){: .btn .btn-green }
 
 <br>
 
-<a name = 'syllabus'>
-## [Syllabus](syllabus) 📕
+The following breakdown is tentative. All assignments are available for public consumption on our [GitHub](https://github.com/surajrampure/data-94-sp21/).
 
-As this is a new course, many of the details are still being finalized. The rough topic breakdown is as follows:
-
-- Weeks 1-4: Python basics in the Jupyter notebook environment.
-- Weeks 4-8: Working with real-world tabular data using `datascience` (the library used in Data 8).
-- Weeks 9-11: Data visualization.
-- Weeks 13-15: Probability and simulation. Special topics, as time permits.
-
-Slides and code will be posted after each lecture, and they will cover everything you are required to know for the course. There is no one textbook that covers the content of this course the way we intend on covering it, though we may link supplementary readings.
-
-See the [syllabus](syllabus) tab of the website for a more detailed topic breakdown.
-
-Also, note that the course will emphasize the use of real-world data. Some possible datasets include
-- Data from media markets in Pennsylvania and data on Congress members’ ages
-- California housing prices data
-- COVID cases
-- Bay Area bike sharing usage data
-- Vehicle fuel efficiency data
-- Sports data
-
-Students will leave the course being able to independently apply the skills they've learned to datasets of their own choosing.
-
-<br>
-
-<a name = 'logistics'>
-## Logistics 💻
-More details will be filled in as we approach the start of the spring semester.
-
-All content for the course will be posted on this website. We will use Ed for all communication; we will not use bCourses for anything.
-
-### Lecture and Lab
-**Class will be held three times a week: on Mondays and Wednesdays from 11AM-12PM, and on Fridays from 11AM-1PM.**
-- Lecture is on Mondays, Wednesdays, and Fridays from 11AM-12PM. This is where new ideas are introduced.
-- Lab is on Friday from 12-1PM. This is where you will work short exercises and homework assignments with your peers, with assistance from course staff.
-
-Attendance is expected, though lectures will be recorded and posted on the course website.
-
-### Assignments
-Each lecture will be accompanied with a "Quick Check", which is a very short (< 15 min) exercise designed to be completed after coming to lecture. Quick Checks exist to ensure that you're up-to-date with lecture.
-
-This course will have several homework assignments, a few of which will be longer "projects". You will have plenty of time to get help with them in lab and in office hours.
-
-### Exams
-We plan on administering three quizzes, in lieu of any midterms. These will roughly be in weeks 4, 8, and 12.
-
-There will also be a final exam.
-
-<br>
-
-<a name = 'enrollment'>
-## Enrollment 👋
-
-This course is offered for 3 units, letter graded (though you can opt to take it P/NP). **It does not satisfy major requirements for any major.**
-
-It is also restricted to undergraduates only. Furthermore, since one of its goals is to encourage students to take courses like Data 8 afterwards, **we are capping the number of seniors (defined as someone graduating anytime in 2021) in the class to 8**. We especially encourage first-year and second-year students to apply.
-
-As this is a small course, we want to ensure that all students enrolled are part of the target audience. As a result, **you cannot enroll in this course automatically - you must first fill out an application.**
-
-We are specifically targeting students who:
-- Are undergraduates who be interested in data science
-- Have never programmed before
-- Do not have time conflicts with the class
-
-Notes about the application process:
-- We will filter applications regularly. Spots will be first-come-first-serve; if you apply and you meet the above criteria, you will be given a spot in the class.
-- There is no "due date" to apply. The only scenario in which you will not be able to apply is if the waitlist grows very large, and it is clear not everyone will be able to enroll.
-- There are 30 seats available in this class. If more than 30 students are interested in taking the course (and meet the above criteria), we will maintain a waitlist.
-- We are not looking for anything other than whether or not you meet the above criteria. **Nobody is under-qualified to take this course!**
-- **Update (12/17)**: Data 94 is officially scheduled, and students who have been accepted will be emailed permission codes. As of now, the course is full, but we will maintain a waitlist in the event that students drop.
-
-If you fit the above criteria and are interested in the course, please fill out the application below. Please direct any questions to Suraj (rampure@berkeley.edu).
-
-[Apply to take the course!](http://tinyurl.com/applydata94){: .btn .btn-outline }
-
-<br>
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}

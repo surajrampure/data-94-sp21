@@ -1,5 +1,5 @@
 ---
-    title: Week 7
+    title: 7. Table Fundamentals
     weekNumber: 7
     days:
       - date: 2021-03-01

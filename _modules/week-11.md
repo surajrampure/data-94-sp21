@@ -1,5 +1,5 @@
 ---
-    title: Week 11
+    title: 11. Visualization
     weekNumber: 11
     days:
       - date: 2021-03-29
