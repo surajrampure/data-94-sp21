@@ -20,7 +20,7 @@ description: Course structure and policies.
 
 ## Communication 💬
 
-This semester, we'll be using [Ed](#), a new communication tool. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email Suraj if you're not sure how to access it.
+This semester, we'll be using [Ed](https://edstem.org/us/courses/3251/discussion/), a new communication tool. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email Suraj if you're not sure how to access it.
 
 **We will not be using bCourses at all in this class**; this website and Ed serve as replacements.
 
@@ -32,7 +32,7 @@ This semester, we'll be using [Ed](#), a new communication tool. Ed is where you
 
 **Lab:** Fridays, 12PM-1PM
 
-**Office Hours:** TBD
+**Office Hours:** Throughout the week; see [Ed](https://edstem.org/us/courses/3251/discussion/201908)
 
 Lectures and lab will be hosted on Zoom. See [this post on Ed](https://edstem.org/us/courses/3251/discussion/201908) for links. (We don't make Zoom links public, so that we don't get Zoom-bombed 💣.)
 
