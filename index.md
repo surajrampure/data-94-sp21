@@ -26,7 +26,7 @@ UC Berkeley, Spring 2021
   {% endfor %}
 </div> -->
 
-[Syllabus](syllabus){: .btn .btn-blue } [Zoom links](https://edstem.org/us/courses/3251/discussion/201908){: .btn .btn-purple } [Interested in enrolling? Read this!](enrollment){: .btn .btn-green }
+[Syllabus](syllabus){: .btn .btn-blue } [Zoom link](https://edstem.org/us/courses/3251/discussion/201908){: .btn .btn-purple } [Recordings](https://edstem.org/us/courses/3251/discussion/210569){: .btn .btn-yellow } [Enrollment](enrollment){: .btn .btn-green }
 
 The following breakdown is tentative. All assignments are available for public consumption on our [GitHub](https://github.com/surajrampure/data-94-sp21/).
 
