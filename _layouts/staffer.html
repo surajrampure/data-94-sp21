@@ -20,8 +20,8 @@
     <p>{{ page.email }}</p>
     {% endif %}
 
-    {% if page.oh and page.role == "Instructor" %}
-    <p><b>Office Hour(s):</b> {{ page.oh }}</p>
+    {% if page.oh %}
+    <p><b>Office Hours:</b> {{ page.oh }}</p>
     {% endif %}
 
     {{ content }}
