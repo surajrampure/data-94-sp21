@@ -34,7 +34,7 @@ This semester, we'll be using [Ed](https://edstem.org/us/courses/3251/discussion
 
 **Office Hours:** Throughout the week; see [Ed](https://edstem.org/us/courses/3251/discussion/201908)
 
-Lectures and lab will be hosted on Zoom. See [this post on Ed](https://edstem.org/us/courses/3251/discussion/201908) for links. (We don't make Zoom links public, so that we don't get Zoom-bombed 💣.)
+Lectures, labs, and office hours will be hosted on Zoom. See [this post on Ed](https://edstem.org/us/courses/3251/discussion/201908) for the link. (We won't make the Zoom link public, so that we don't get Zoom-bombed 💣.)
 
 ---
 
