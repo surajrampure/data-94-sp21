@@ -7,8 +7,8 @@
           "N/A (Presidents Day)":
       - date: 2021-02-17
         events:
-          "**11**{: .label .label-gray } Dictionaries and Sets":
+          "**11**{: .label .label-gray } Advanced Iteration":
       - date: 2021-02-19
         events:
-          "**12**{: .label .label-gray } Testing and Documentation":
+          "**12**{: .label .label-gray } Dictionaries and Sets":
 ---

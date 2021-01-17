@@ -7,7 +7,7 @@
           "**6**{: .label .label-gray } Control":
       - date: 2021-02-03
         events:
-          "**7**{: .label .label-gray } Iteration 1":
+          "**7**{: .label .label-gray } Iteration (While loops)":
       - date: 2021-02-05
         events:
           "**8**{: .label .label-gray } Lists and String Manipulation":
