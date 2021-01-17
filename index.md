@@ -17,6 +17,9 @@ UC Berkeley, Spring 2021
 
 {: .mb-3 }
 **Lecture:** MWF 11AM-12PM, **Lab:** F 11AM-1PM
+{: .mb-0 .fs-5 .text-grey-dk-000 }
+
+{: .mb-3 }
 **Office Hours:** See [Ed](https://edstem.org/us/courses/3251/discussion/201908)
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
