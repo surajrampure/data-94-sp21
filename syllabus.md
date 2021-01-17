@@ -76,7 +76,7 @@ You will leave the course being able to independently apply the skills you've le
 
 ### Lecture
 
-There will be three lectures a week. In lecture, we'll introduce you to new ideas and concepts in programming and data science. **Lecture attendance is a part of your grade**; the specifics are explained in the Policies section below. However, lectures will be recorded and posted after class for you to review in the future. Recordings, along with lecture slides and code, will all be posted on the course homepage.
+There will be three lectures a week. In lecture, we'll introduce you to new ideas and concepts in programming and data science. **Lecture attendance is a part of your grade**; the specifics are explained in the Policies section below. However, lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. **Note:** Lecture recordings will only be accessible to students in the course; if you click the "Lecture recordings" link on the course homepage you'll be brought to a page on Ed that only enrolled students can view.
 
 During each lecture, there will be a few points at which we stop and ask you to answer a short question. We call these questions Quick Checks. They serve two purposes:
 1. For us to get a gauge of how well the class understands the material we're currently covering
