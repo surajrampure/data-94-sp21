@@ -9,5 +9,5 @@
       - date: 2021-01-22
         events:
           "**2**{: .label .label-gray } Jupyter Notebooks and Arithmetic":
-          "**Lab 0**{: .label .label-lab } Environment Setup":
+          "**Lab 0**{: .label .label-lab } [Using Jupyter Notebooks](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lab/lab00/lab00.ipynb)":
 ---
