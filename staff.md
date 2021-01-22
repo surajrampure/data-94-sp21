@@ -22,8 +22,6 @@ Email the instructor with any questions about the class.
 
 ## Staff
 
-Our GSI, tutor, and lab assistants help in running all aspects of the class.
-
 {% assign staff = site.staffers | where: 'role', 'Staff' %}
 <div class="role">
   {% for staffer in staff %}
