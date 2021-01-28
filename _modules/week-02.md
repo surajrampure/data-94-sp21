@@ -12,8 +12,8 @@
             "**4**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1NsbDVHIq6Tdc8GM38pmnKLkXLcwFgsnXCai2Y9mgzas/edit#slide=id.p) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec04/lec04.ipynb) • [code HTML](resources/assets/lecture/lec04/lec04.html) • [QC](https://edstem.org/us/courses/3251/lessons/7749/slides/37552)"
       - date: 2021-01-28
         events:
-          "**Homework 1**{: .label .label-hw } Python Fundamentals **(due Feb. 3)**":
-          "**Survey 1**{: .label .label-survey } Weekly Survey **(due Feb. 3)**":
+          "**Homework 1**{: .label .label-hw } [Python Fundamentals](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=hw/hw01/hw01.ipynb) **(due Feb. 3)**":
+          "**Survey 1**{: .label .label-survey } [Weekly Survey](https://docs.google.com/forms/d/e/1FAIpQLSeac_lj2dE2VPuJ4ierVd0d_0Kv1TJk6BQo8iivrqVqGjJ3ug/viewform) **(due Feb. 3)**":
       - date: 2021-01-29
         events:
           "**5**{: .label .label-gray } Functions":
