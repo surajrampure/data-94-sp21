@@ -18,5 +18,5 @@
         events:
           "**5**{: .label .label-gray } Functions":
             "**5**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1Qsu838yy1yYa7axpAW8mo0Of4WgSspl6fOQJnbIs4II/edit#slide=id.p) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec05/lec05.ipynb) • [code HTML](resources/assets/lecture/lec05/lec05.html) • [QC](https://edstem.org/us/courses/3251/lessons/7816/slides/38013) • extra: [CIT 8.0](https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 7](https://cs.stanford.edu/people/nick/py/python-function.html)"
-          "**Lab 1**{: .label .label-lab } Functions, Help with Homework 1":
+          "**Lab 1**{: .label .label-lab } [Functions, Help with Homework 1](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lab/lab01/lab01.ipynb)":
 ---
