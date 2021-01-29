@@ -10,5 +10,5 @@
           "**QUIZ 1**{: .label .label-exam } Quiz 1 (in lecture)":
       - date: 2021-02-12
         events:
-          "**10**{: .label .label-gray } Iteration 2 (For loops)":
+          "**10**{: .label .label-gray } Iteration 2":
 ---
