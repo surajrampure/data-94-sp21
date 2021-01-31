@@ -9,7 +9,7 @@
       - date: 2021-01-27
         events:
           "**4**{: .label .label-gray } Comparisons":
-            "**4**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1NsbDVHIq6Tdc8GM38pmnKLkXLcwFgsnXCai2Y9mgzas/edit#slide=id.p) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec04/lec04.ipynb) • [code HTML](resources/assets/lecture/lec04/lec04.html) • [QC](https://edstem.org/us/courses/3251/lessons/7749/slides/37552)"
+            "**4**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1NsbDVHIq6Tdc8GM38pmnKLkXLcwFgsnXCai2Y9mgzas/edit#slide=id.p) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec04/lec04.ipynb) • [code HTML](resources/assets/lecture/lec04/lec04.html) • [QC](https://edstem.org/us/courses/3251/lessons/7749/slides/37552) • extra: [CIT 4.3](https://www.inferentialthinking.com/chapters/04/3/Comparison.html)"
       - date: 2021-01-28
         events:
           "**Homework 1**{: .label .label-hw } [Python Fundamentals](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=hw/hw01/hw01.ipynb) **(due Feb. 3)**":
