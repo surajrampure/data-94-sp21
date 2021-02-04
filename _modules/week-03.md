@@ -12,8 +12,8 @@
             "**7**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/16ymdTXOWWgCZLOe8VxscClVGfOKXgj34r7IPQQIscn0/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec07/lec07.ipynb) • [code HTML](resources/assets/lecture/lec07/lec07.html) • [QC](https://edstem.org/us/courses/3251/lessons/9428/slides/47722) • readings: [SPR 9](https://cs.stanford.edu/people/nick/py/python-while.html)"
       - date: 2021-02-04
         events:
-          "**Homework 2**{: .label .label-hw } Control, Iteration, Lists, and Strings **(due Feb. 11)**":
-          "**Survey 2**{: .label .label-survey } Weekly Survey **(due Feb. 11)**":
+          "**Homework 2**{: .label .label-hw } [Control, Iteration, Lists, and Strings](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=hw/hw02/hw02.ipynb) **(due Feb. 11)**":
+          "**Survey 2**{: .label .label-survey } [Weekly Survey](https://docs.google.com/forms/d/e/1FAIpQLSfdTwoUUxMi5sSsZRvH2AJDOmFu1N7zJZAQ1wMbvwHkTnpoSQ/viewform) **(due Feb. 11)**":
       - date: 2021-02-05
         events:
           "**8**{: .label .label-gray } Lists and Strings":
