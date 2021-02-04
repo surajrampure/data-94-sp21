@@ -1,0 +1,10 @@
+test = {   'name': 'q4b',
+    'points': 2,
+    'suites': [   {   'cases': [   {'code': ">>> extract('510-642-1000','-') == '642'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> extract('510-', '-') == ''\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> extract('hey,there,mynameis', ',') == 'there'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> extract('i@gotouc@berkeley', '@') == 'gotouc'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
