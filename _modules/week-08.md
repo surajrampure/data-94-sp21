@@ -4,10 +4,10 @@
     days:
       - date: 2021-03-08
         events:
-          "**19**{: .label .label-gray } Joins":
+          "**19**{: .label .label-gray } Grouping and Pivoting":
       - date: 2021-03-10
         events:
-          "**20**{: .label .label-gray } Case Studies":
+          "**20**{: .label .label-gray } Joins":
       - date: 2021-03-12
         events:
           "**21**{: .label .label-gray } Review":

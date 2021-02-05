@@ -7,8 +7,11 @@
           "N/A (Presidents Day)":
       - date: 2021-02-17
         events:
-          "**11**{: .label .label-gray } Advanced Iteration":
+          "**11**{: .label .label-gray } Iteration 2":
+      - date: 2021-02-18
+        events:
+          "**Homework 3**{: .label .label-hw } Advanced Iteration **(due Feb. 24)**":
       - date: 2021-02-19
         events:
-          "**12**{: .label .label-gray } Dictionaries and Sets":
+          "**12**{: .label .label-gray } Advanced Iteration":
 ---

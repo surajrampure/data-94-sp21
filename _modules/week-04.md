@@ -4,11 +4,12 @@
     days:
       - date: 2021-02-08
         events:
-          "**9**{: .label .label-gray } Review and Problem Solving":
+          "**9**{: .label .label-gray } Review":
       - date: 2021-02-10
         events:
-          "**QUIZ 1**{: .label .label-exam } Quiz 1 (in lecture)":
+          "**10**{: .label .label-gray } Review":
       - date: 2021-02-12
         events:
-          "**10**{: .label .label-gray } Iteration 2":
+          "**QUIZ 1**{: .label .label-exam } Quiz 1 (in lecture)":
+          "**Lab 3**{: .label .label-lab } Quiz Review":
 ---
