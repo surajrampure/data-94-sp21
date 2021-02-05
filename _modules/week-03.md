@@ -17,4 +17,6 @@
       - date: 2021-02-05
         events:
           "**8**{: .label .label-gray } Lists and Strings":
+            "**8**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1gIbZd5SYEx7Q_EvhLdTtQ77OGP_v2nEGeFTLyBYvZO8/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec08/lec08.ipynb) • [code HTML](resources/assets/lecture/lec08/lec08.html) • [QC](https://edstem.org/us/courses/3251/lessons/9515/slides/48100) • readings: [SPR 17](https://cs.stanford.edu/people/nick/py/python-list.html)"
+          "**Lab 2**{: .label .label-lab } [More Python Fundamentals](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lab/lab02/lab02.ipynb)":
 ---
