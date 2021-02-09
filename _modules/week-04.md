@@ -8,7 +8,8 @@
             "**9**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1hdo6wTr3R5Kcv6-bKPd6HqumkhEfQR1wLuQvvD1bA5w/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec09/lec09.ipynb) • [code HTML](resources/assets/lecture/lec09/lec09.html) • [QC](https://edstem.org/us/courses/3251/lessons/10184/slides/50498)"
       - date: 2021-02-10
         events:
-          "**10**{: .label .label-gray } Review":
+          "**10**{: .label .label-gray } More Review":
+            "**10**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/11-i0S4m3HCDaucvkmAnBVRsuDgRcmJ7woRkvdhvMKsE/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec10/lec10.ipynb) • [code HTML](resources/assets/lecture/lec10/lec10.html) • [QC](https://edstem.org/us/courses/3251/lessons/10194/slides/50562)"
       - date: 2021-02-12
         events:
           "**QUIZ 1**{: .label .label-exam } Quiz 1 (in lecture)":
