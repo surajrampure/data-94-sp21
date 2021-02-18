@@ -1,0 +1,10 @@
+test = {   'name': 'q1e',
+    'points': 2,
+    'suites': [   {   'cases': [   {'code': '>>> largest_index_fixed([2, 9, 1, 0, 8]) == 1\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> largest_index_fixed([15]) == 0\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> largest_index_fixed([1, 4, 5, 4, 5]) == 2 \nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> largest_index_fixed([43, 44, -1, 19, 8, 2, 1, 45]) == 7\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

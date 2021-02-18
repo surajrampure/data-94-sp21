@@ -1,0 +1,10 @@
+test = {   'name': 'q3',
+    'points': 2,
+    'suites': [   {   'cases': [   {'code': ">>> is_excited('i! am! excited!')\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> is_excited('why! are! we! typing! like! this!')\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> not is_excited('you are weird!')\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> is_excited('hmm????! this! should?! be**!')\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
