@@ -16,4 +16,6 @@
       - date: 2021-02-19
         events:
           "**12**{: .label .label-gray } More Iteration":
+            "**12**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1xiA6wvgdH-8g5Qfh0-U9yobQcJSHA8n7cgZOWtuCBqo/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec12/lec12.ipynb) • [code HTML](resources/assets/lecture/lec12/lec12.html) • [QC](https://edstem.org/us/courses/3251/lessons/10508/slides/51515) • readings: [TCS 10.24](https://runestone.academy/runestone/books/published/thinkcspy/Lists/NestedLists.html)"
+          "**Lab 3**{: .label .label-lab } [For Loops](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lab/lab03/lab03.ipynb)":
 ---

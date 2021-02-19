@@ -13,5 +13,5 @@
       - date: 2021-02-12
         events:
           "**QUIZ 1**{: .label .label-exam } Quiz 1 (in lecture)":
-          "**Lab 3**{: .label .label-lab } Quiz Review":
+          "**Lab**{: .label .label-lab } Quiz Review":
 ---
