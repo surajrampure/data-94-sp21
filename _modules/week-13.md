@@ -4,11 +4,11 @@
     days:
       - date: 2021-04-12
         events:
-          "**30**{: .label .label-gray } Case Studies and Review":
+          "**30**{: .label .label-gray } TBD":
       - date: 2021-04-14
         events:
-          "**Quiz 3**{: .label .label-exam } Quiz 3 (in lecture)":
+          "**31**{: .label .label-gray } Review":
       - date: 2021-04-16
         events:
-          "**31**{: .label .label-gray } Overview of Statistical Inference":
+          "**Quiz 3**{: .label .label-exam } Quiz 3 (in lecture)":
 ---

@@ -7,8 +7,8 @@
           "**16**{: .label .label-gray } Table Basics":
       - date: 2021-03-03
         events:
-          "**17**{: .label .label-gray } Row Manipulation":
+          "**17**{: .label .label-gray } Guest Lecture: Disinformation and Data":
       - date: 2021-03-05
         events:
-          "**18**{: .label .label-gray } Applying":
+          "**18**{: .label .label-gray } Row Manipulation":
 ---

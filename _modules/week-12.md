@@ -4,11 +4,11 @@
     days:
       - date: 2021-04-05
         events:
-          "**27**{: .label .label-gray } Visualization Principles and Matplotlib":
+          "**27**{: .label .label-gray } Cartography":
       - date: 2021-04-07
         events:
-          "**28**{: .label .label-gray } Image Processing":
+          "**28**{: .label .label-gray } Visualization Principles":
       - date: 2021-04-09
         events:
-          "**29**{: .label .label-gray } Drawing":
+          "**29**{: .label .label-gray } Visualization Libraries":
 ---

@@ -116,8 +116,8 @@ Furthermore, you're encouraged to ask and answer questions about assignments and
 
 In lieu of a midterm, we will have three small quizzes held during lecture, each worth 5% of your grade (this way, one bad quiz will not significantly impact your grade). Each quiz will focus on the material that was not assessed on the previous quiz. The scheduling for these is on the course homepage; the tentative dates are
 - Quiz 1: Friday, February 12th [UPDATED]
-- Quiz 2: Monday, March 15th
-- Quiz 3: Wednesday, April 14th
+- Quiz 2: Friday, March 19th [UPDATED]
+- Quiz 3: Friday, April 16th [UPDATED]
 
 We will have a final exam during the campus-assigned slot: **Tuesday May 11th, 7-10PM.** Unlike the quizzes, the final exam will be cumulative.
 
