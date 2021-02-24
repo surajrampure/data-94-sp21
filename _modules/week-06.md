@@ -8,7 +8,8 @@
             "**13**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1ZJAa5isIP3kvIGdObP2VkOsZk5IBrEliooSKmKfzpPs/edit#slide=id.p) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec13/lec13.ipynb) • [code HTML](resources/assets/lecture/lec13/lec13.html) • [QC](https://edstem.org/us/courses/3251/lessons/10648/slides/52211) • readings: [SPR 21](https://cs.stanford.edu/people/nick/py/python-dict.html), [TCS 12](https://runestone.academy/runestone/books/published/thinkcspy/Dictionaries/toctree.html)"
       - date: 2021-02-24
         events:
-          "**14**{: .label .label-gray } Data Formats and Packages":
+          "**14**{: .label .label-gray } File Formats and Modules":
+            "**14**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/101x7GfZdm2qhhlFHywO0byejXFsNHFK6avZ2rhXk6-I/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec14/lec14.ipynb) • [code HTML](resources/assets/lecture/lec14/lec14.html) • [QC](https://edstem.org/us/courses/3251/lessons/10803/slides/52752) • readings: [CSV vs. JSON](https://medium.com/@martindrapeau/the-state-of-csv-and-json-d97d1486333), [Imports](https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3)"
       - date: 2021-02-25
         events:
           "**Homework 4**{: .label .label-hw } Dictionaries and NumPy **(due Mar. 3)**":
@@ -17,3 +18,4 @@
         events:
           "**15**{: .label .label-gray } NumPy":
 ---
+https://edstem.org/us/courses/3251/lessons/10803/slides/52752
