@@ -18,4 +18,3 @@
         events:
           "**15**{: .label .label-gray } NumPy":
 ---
-https://edstem.org/us/courses/3251/lessons/10803/slides/52752
