@@ -12,9 +12,10 @@
             "**14**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/101x7GfZdm2qhhlFHywO0byejXFsNHFK6avZ2rhXk6-I/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec14/lec14.ipynb) • [code HTML](resources/assets/lecture/lec14/lec14.html) • [QC](https://edstem.org/us/courses/3251/lessons/10803/slides/52752) • readings: [CSV vs. JSON](https://medium.com/@martindrapeau/the-state-of-csv-and-json-d97d1486333), [Imports](https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3)"
       - date: 2021-02-25
         events:
-          "**Homework 4**{: .label .label-hw } Dictionaries and NumPy **(due Mar. 3)**":
-          "**Survey 4**{: .label .label-survey } Weekly Survey **(due Mar. 3)**":
+          "**Homework 4**{: .label .label-hw } [Dictionaries and NumPy](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=hw/hw04/hw04.ipynb) **(due Mar. 3)**":
+          "**Survey 4**{: .label .label-survey } [Weekly Survey](https://docs.google.com/forms/d/e/1FAIpQLScojffFgq7HvcD5f0NzJGBjiNEnJeZmaEa0Di_8C_m7Xi90ng/viewform) **(due Mar. 3)**":
       - date: 2021-02-26
         events:
           "**15**{: .label .label-gray } NumPy":
+          "**Lab 4**{: .label .label-lab } [Dictionaries and NumPy](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lab/lab04/lab04.ipynb)":
 ---
