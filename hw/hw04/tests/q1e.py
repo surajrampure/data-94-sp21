@@ -1,0 +1,10 @@
+test = {   'name': 'q1e',
+    'points': 1,
+    'suites': [   {   'cases': [   {   'code': ">>> # If you see this, don't just copy the answer – follow the steps above!;\n>>> (key_1 == 'geometry') and (key_3 == 'lat')\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> np.isclose(maps_data[key_1][key_2][key_3], 37.8727848)\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
