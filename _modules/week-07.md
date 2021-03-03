@@ -9,6 +9,7 @@
       - date: 2021-03-03
         events:
           "**17**{: .label .label-gray } Guest Lecture: Disinformation and Data":
+            "**17**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1mmm3EWPlDgBKqWErsMhVfT5eZpxCzeCKP56I9wrtwDk/edit?usp=sharing)
       - date: 2021-03-05
         events:
           "**18**{: .label .label-gray } Row Manipulation":
