@@ -10,7 +10,12 @@
         events:
           "**17**{: .label .label-gray } Guest Lecture: Disinformation and Data":
             "**17**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1mmm3EWPlDgBKqWErsMhVfT5eZpxCzeCKP56I9wrtwDk/edit?usp=sharing) • no QC"
+      - date: 2021-03-04
+        events:
+          "**Homework 5**{: .label .label-hw } [Table Fundamentals](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=hw/hw05/hw05.ipynb) **(due Mar. 11)**":
+          "**Survey 5**{: .label .label-survey } [Weekly Survey](https://docs.google.com/forms/d/e/1FAIpQLSdRmTcb6ZdTF-8SOvnIPJ4M2rTPp0ex2AmPJlehH93p5LuZmw/viewform) **(due Mar. 11)**":
       - date: 2021-03-05
         events:
           "**18**{: .label .label-gray } Row Manipulation":
+          "**Lab 5**{: .label .label-lab } [Tables](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lab/lab05/lab05.ipynb)":
 ---

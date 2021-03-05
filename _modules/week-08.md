@@ -1,5 +1,5 @@
 ---
-    title: 8. Advanced Tables
+    title: 8. More Table Methods
     weekNumber: 8
     days:
       - date: 2021-03-08
