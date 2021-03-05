@@ -1,0 +1,10 @@
+test = {   'name': 'q5b',
+    'points': 2,
+    'suites': [   {   'cases': [   {'code': ">>> sent_from_school('CHADWICK INTERNATIONAL SCHOOL') == 5\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> sent_from_school('BERKELEY HIGH SCHOOL') == 18\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> sent_from_school('LORD BYNG SECONDARY SCHOOL') == 4\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> sent_from_school('TORREY PINES HIGH SCHOOL') == 19\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
