@@ -17,5 +17,6 @@
       - date: 2021-03-05
         events:
           "**18**{: .label .label-gray } Row Manipulation":
+            "**16**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1Eh8WQan8sshT2eDMSFHB3_pdQLOmmNoBl0oL5WnOh6k/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec18/lec18.ipynb) • [code HTML](resources/assets/lecture/lec18/lec18.html) • [QC](https://edstem.org/us/courses/3251/lessons/11084/slides/53687) • readings: [CIT 6.1-6.4](https://www.inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [`are.` docs](http://data8.org/datascience/predicates.html?highlight=#datascience.predicates.are)"
           "**Lab 5**{: .label .label-lab } [Tables](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lab/lab05/lab05.ipynb)":
 ---
