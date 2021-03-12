@@ -1,0 +1,12 @@
+test = {   'name': 'q1g-part2',
+    'points': 2,
+    'suites': [   {   'cases': [   {'code': '>>> common_chains_pivoted.num_rows == 6\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': ">>> common_chains_pivoted.labels == ('Segment_Category', 'rapid decrease', 'steady decrease', 'stagnant', 'steady increase', 'rapid increase')\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> np.all(common_chains_pivoted.column('stagnant') == np.array([3, 2, 2, 3, 4, 4]))\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> list(common_chains_pivoted.row(-1)) == ['Varied Menu', 4, 5, 4, 5, 4]\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

@@ -1,0 +1,11 @@
+test = {   'name': 'q2',
+    'points': 0,
+    'suites': [   {   'cases': [   {'code': '>>> column_label == "Genre"\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> row_label == "Lead Studio"\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> value_to_collect == "Worldwide Gross (Millions)"\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> collection_function == np.sum\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.round(studio_genre_total_gross.column("Comedy")[2], 2) == 950.27\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

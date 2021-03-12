@@ -1,0 +1,11 @@
+test = {   'name': 'q2a',
+    'points': 3,
+    'suites': [   {   'cases': [   {'code': ">>> city_checks.labels == ('City', 'Average Check median') and city_checks.num_rows == 6\nTrue", 'hidden': False, 'locked': False},
+                                   {   'code': ">>> np.all(city_checks.column('City') == np.array(['Las Vegas', 'Miami', 'New York', 'Chicago', 'San Francisco',\n...        'Washington']))\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> np.all(city_checks.column('Average Check median') == np.array([99, 98, 84, 82, 54, 37]))\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

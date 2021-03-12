@@ -1,0 +1,12 @@
+test = {   'name': 'q3d',
+    'points': 3,
+    'suites': [   {   'cases': [   {'code': ">>> city_ratings.labels == ('City', '2.5', '3.0', '3.5', '4.0', '4.5')\nTrue", 'hidden': False, 'locked': False},
+                                   {   'code': ">>> np.all(city_ratings.column('City') == np.array(['Chicago', 'Las Vegas', 'Miami', 'New York', 'San Francisco']))\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> list(city_ratings.row(2)) == ['Miami', 0, 0, 88, 98, 0]\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> np.all(city_ratings.column('4.5') == np.array([95, 92, 0, 87, 0]))\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

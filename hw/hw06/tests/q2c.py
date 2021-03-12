@@ -1,0 +1,12 @@
+test = {   'name': 'q2c',
+    'points': 3,
+    'suites': [   {   'cases': [   {'code': ">>> hot_cities.labels == ('City', 'Independents 100', 'Future 50')\nTrue", 'hidden': False, 'locked': False},
+                                   {   'code': ">>> np.all(hot_cities.column('City') == np.array(['Atlanta', 'Denver', 'Los Angeles', 'New York', 'San Francisco',\n...        'Washington']))\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> np.all(hot_cities.column('Independents 100') == np.array([2, 1, 1, 21, 5, 9]))\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> np.all(hot_cities.column('Future 50') == np.array([1, 1, 1, 8, 2, 1]))\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
