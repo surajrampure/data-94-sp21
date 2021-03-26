@@ -53,10 +53,10 @@ If you have already taken any of these courses, Data 94 is not the right course 
 
 The rough topic breakdown is as follows:
 
-- Weeks 1-4: Python basics in the Jupyter notebook environment.
-- Weeks 4-8: Working with real-world tabular data using `datascience` (the library used in Data 8).
-- Weeks 9-11: Data visualization.
-- Weeks 13-15: Probability and simulation. Special topics, as time permits.
+- Weeks 1-6: Python basics in the Jupyter notebook environment.
+- Weeks 7-10: Working with real-world tabular data using `datascience` (the library used in Data 8).
+- Weeks 11-13: Data visualization.
+- Weeks 14-15: Probability and simulation. Special topics, as time permits.
 
 Slides and code will be posted after each lecture, and they will cover everything you are required to know for the course. There is no one textbook that covers the content of this course the way we intend on covering it, though we will link supplementary readings.
 
@@ -100,7 +100,7 @@ Homeworks primarily consist of programming problems. You will apply the skills y
 
 Homeworks, like all course material, can be accessed by clicking the correct link on the course website. Clicking on the "Homework 3" link, for example, will bring you to a copy of the Homework 3 notebook in your own DataHub. This is where you will work on the assignment. Once you're done, you will run the very last cell in the assignment to generate a `.zip` file, which you will then upload to Gradescope so that we can grade it. This process will be walked through in lecture and in the first assignment.
 
-There will be 11 homework assignments, which corresponds to roughly one per week. In general, homework assignments will be released on Thursday afternoon, and will be due the following Wednesday at 11:59PM. See the Policies section for our extensions and late submissions policy, as well as our homework drop policy.
+There will be 9 homework assignments, which corresponds to roughly one per week. In general, homework assignments will be released on Thursday evening, and will be due the following Thursday at 11:59PM. See the Policies section for our extensions and late submissions policy, as well as our homework drop policy.
 
 Homework assignments are meant to be completed individually, but we encourage you to discuss approaches with others; see our Academic Honesty policy below. We may have a couple group-based or presentation-based homework assignments; this is TBD.
 
@@ -156,7 +156,7 @@ Here's how we will compute your grade.
 | Attendance | 5% | see below |
 | Quick Checks | 5% | no drops |
 | Weekly Surveys  | 5% | no drops |
-| Homeworks | 50% | 11, with 1 drop (5% each) |
+| Homeworks | 50% | 9, with 1 drop (6.25% each) |
 | Quizzes | 15% | 3, 5% each |
 | Final Exam | 20% | |
 
