@@ -4,7 +4,7 @@
     days:
       - date: 2021-04-12
         events:
-          "**30**{: .label .label-gray } TBD":
+          "**30**{: .label .label-gray } Principles of Visualization":
       - date: 2021-04-14
         events:
           "**31**{: .label .label-gray } Review":
