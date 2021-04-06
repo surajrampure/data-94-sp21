@@ -7,8 +7,8 @@
           "**32**{: .label .label-gray } Guest Lecture: Election Maps":
       - date: 2021-04-21
         events:
-          "**33**{: .label .label-gray } Simulations":
+          "**33**{: .label .label-gray } Tutorial: Creating a Website":
       - date: 2021-04-23
         events:
-          "**34**{: .label .label-gray } Future Studies in Statistics":
+          "**34**{: .label .label-gray } Tutorial: Publishing Your Work":
 ---
