@@ -10,7 +10,11 @@
         events:
           "**28**{: .label .label-gray } Maps":
             "**28**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1nioKYPs0xulH5sk-R2550EXNxyEWF4gnOb9aSgwML7Q/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec28/lec28.ipynb) • [code HTML](resources/assets/lecture/lec28/lec28.html) • [QC](https://edstem.org/us/courses/3251/lessons/12314/slides/59891) • readings: [CIT 8.5](https://inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html)"
+      - date: 2021-04-08
+        events:
+          "**Homework 8**{: .label .label-hw } [Advanced Visualization Techniques](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=hw/hw08/hw08.ipynb) **(due Apr. 20)**":
       - date: 2021-04-09
         events:
           "**29**{: .label .label-gray } Visualization Libraries":
+          "**Lab 8**{: .label .label-lab } [More Visualization](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lab/lab08/lab08.ipynb)":
 ---
