@@ -16,6 +16,6 @@
       - date: 2021-04-09
         events:
           "**29**{: .label .label-gray } Fun with Plotly":
-            "**28**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1MAKo0RY1Y4hpl8FESTjQMstcU3ItDu5M2U97oYXqD5c/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec29/lec29.ipynb) • [code HTML](resources/assets/lecture/lec29/lec29.html) • [QC](https://edstem.org/us/courses/3251/lessons/12381/slides/60402)"
+            "**29**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1MAKo0RY1Y4hpl8FESTjQMstcU3ItDu5M2U97oYXqD5c/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec29/lec29.ipynb) • [code HTML](resources/assets/lecture/lec29/lec29.html) • [QC](https://edstem.org/us/courses/3251/lessons/12381/slides/60402)"
           "**Lab 8**{: .label .label-lab } [More Visualization](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lab/lab08/lab08.ipynb)":
 ---
