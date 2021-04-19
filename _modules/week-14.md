@@ -4,7 +4,8 @@
     days:
       - date: 2021-04-19
         events:
-          "**32**{: .label .label-gray } Guest Lecture: Election Maps":
+          "**32**{: .label .label-gray } Randomness and Simulations":
+            "**32**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1PuPBDb3fxP6RQh_pE39v1agi8YA30kwiNooaC3G6amU/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec32/lec32.ipynb) • [code HTML](resources/assets/lecture/lec32/lec32.html) • [QC](https://edstem.org/us/courses/3251/lessons/12688/slides/63947) • readings: [Randomness](https://www.random.org/randomness/); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html)"
       - date: 2021-04-21
         events:
           "**33**{: .label .label-gray } Tutorial: Creating a Website":

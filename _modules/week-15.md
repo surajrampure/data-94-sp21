@@ -1,10 +1,10 @@
 ---
-    title: 15. Special Topics and Review
+    title: 15. Guest Lectures, Conclusion
     weekNumber: 15
     days:
       - date: 2021-04-26
         events:
-          "**35**{: .label .label-gray } Statistical Simulations":
+          "**35**{: .label .label-gray } Guest Lecture: Election Mapping":
       - date: 2021-04-28
         events:
           "**36**{: .label .label-gray } Guest Lecture: Human Context & Ethics":
