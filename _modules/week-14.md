@@ -16,6 +16,6 @@
       - date: 2021-04-23
         events:
           "**34**{: .label .label-gray } Tutorial: Creating a Website":
-            "**34**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1z2q3gu5qlr5fMmKxI_LGUgPiYa65aZ3KGboexDSQCRc/edit?usp=sharing) • code (coming soon) • no QC"
+            "**34**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1z2q3gu5qlr5fMmKxI_LGUgPiYa65aZ3KGboexDSQCRc/edit?usp=sharing) • no QC"
           "**Lab**{: .label .label-lab } Working on Homework 9":
 ---
