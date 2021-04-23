@@ -12,7 +12,7 @@
             "**33**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1wA1taEpdonSa-WTuDriNwK6vWOMHewj14nejHZBlFHc/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec33/lec33.ipynb) • [code HTML](resources/assets/lecture/lec33/lec33.html) • [QC](https://edstem.org/us/courses/3251/lessons/12846/slides/65587) • readings: see Lecture 32"
       - date: 2021-04-22
         events:
-          "**Homework 9**{: .label .label-hw } Create a Website **(due Apr. 29)**":
+          "**Homework 9**{: .label .label-hw } [Create a Website](resources/assets/homework/hw09) **(due Apr. 29)**":
       - date: 2021-04-23
         events:
           "**34**{: .label .label-gray } Tutorial: Creating a Website":
