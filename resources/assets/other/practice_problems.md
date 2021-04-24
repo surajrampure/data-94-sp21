@@ -27,6 +27,8 @@ To access blank copies of old homeworks, follow these instructions. (Repeat thes
 
 To access a blank copy of Quiz 1, follow the instructions above in "Homeworks", but with the `quiz01` folder. The Quiz 1 DataHub link can be found [here](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=quiz/quiz01/quiz01.ipynb).
 
+<br>
+
 ## Quiz 1 Material
 
 ### Functions
