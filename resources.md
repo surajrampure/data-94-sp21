@@ -9,6 +9,8 @@ description: Resources to help you throughout the semester.
 
 There is no textbook for this course. Instead, we're designing the lectures so that they contain everything you'll need to know for the course. With that said, many students benefit from having textbook-style readings, so we've linked some in the course homepage and also include a few more resources below.
 
+## [Practice Problems By Topic](../resources/assets/other/practice_problems)
+
 ## Documentation
 
 In this course, you'll become familiar with reading lots of documentation. If you're not sure how a function works, you should type the name of the function in a cell by itself followed by `?` and run the cell (so for example, `Table.read_table?`). This will show you that function's documentation.
