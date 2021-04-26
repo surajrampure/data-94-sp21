@@ -4,7 +4,8 @@
     days:
       - date: 2021-04-26
         events:
-          "**35**{: .label .label-gray } Guest Lecture: Election Mapping":
+          "**35**{: .label .label-gray } Guest Lecture: Elections and Data":
+            "**35**{: .label .label-ghost } [slides](https://drive.google.com/file/d/12glL1rH0MMod-tsjN5Xuwf8xhHLFGd3c/view?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec35/lec35.ipynb) • [code HTML](resources/assets/lecture/lec35/lec35.html) • no QC"
       - date: 2021-04-28
         events:
           "**36**{: .label .label-gray } Guest Lecture: Human Context & Ethics":
