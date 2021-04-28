@@ -8,7 +8,8 @@
             "**35**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/12glL1rH0MMod-tsjN5Xuwf8xhHLFGd3c/edit#slide=id.gd51724a452_0_0) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec35/lec35.ipynb) • [code HTML](resources/assets/lecture/lec35/lec35.html) • no QC"
       - date: 2021-04-28
         events:
-          "**36**{: .label .label-gray } Guest Lecture: Human Context & Ethics":
+          "**36**{: .label .label-gray } Guest Lecture: Fairness in Housing Appraisal":
+            "**36**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1GVnGjUGHsS2xjPdADL1AM6QjiF10VtcqTiFvWF6mNjw/edit?usp=sharing) • no QC"
       - date: 2021-04-30
         events:
           "**37**{: .label .label-gray } Conclusion":
