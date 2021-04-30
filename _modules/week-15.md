@@ -10,6 +10,9 @@
         events:
           "**36**{: .label .label-gray } Guest Lecture: Fairness in Housing Appraisal":
             "**36**{: .label .label-ghost } [slides](https://drive.google.com/file/d/1b65qYpE2ZCE8B0zs5EFpUdIRBgecUZgP/view?usp=sharing) • no QC"
+      - date: 2021-04-29
+        events:
+          "**Survey 9**{: .label .label-survey } [Final Survey](https://docs.google.com/forms/d/e/1FAIpQLSclY1O_dZrbr9YFpTvlLDYEJYOLLCBNQGDsZ7qvw6MuIYivKw/viewform) **(due May 9)**":
       - date: 2021-04-30
         events:
           "**37**{: .label .label-gray } Conclusion, Next Steps":
