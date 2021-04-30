@@ -12,5 +12,7 @@
             "**36**{: .label .label-ghost } [slides](https://drive.google.com/file/d/1b65qYpE2ZCE8B0zs5EFpUdIRBgecUZgP/view?usp=sharing) • no QC"
       - date: 2021-04-30
         events:
-          "**37**{: .label .label-gray } Conclusion":
+          "**37**{: .label .label-gray } Conclusion, Next Steps":
+            "**37**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1FdUJz0FJu5EccxQO6gc2PVfFBrUtenkaYfDwZB_bZj8/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec37/lec37.ipynb) • [code HTML](resources/assets/lecture/lec37/lec37.html) • no QC"
+          "**Lab**{: .label .label-lab } Next Steps":
 ---
