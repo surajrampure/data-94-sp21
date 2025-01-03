@@ -17,8 +17,8 @@ title: Data 94
 description: Introduction to Computational Thinking with Data
 author: Suraj Rampure
 email: suraj.rampure@berkeley.edu
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'http://data94.org' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/data-94-sp21' # the subpath of your site, e.g. /blog
+url: 'https://rampure.org' # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.2.5-release
